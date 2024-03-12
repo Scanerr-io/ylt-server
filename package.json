@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/YellowLabTools/YellowLabTools-server.git"
+    "url": "git://github.com/Scanerr-io/ylt-server"
   },
   "bin": {
     "server": "./bin/server.js"
