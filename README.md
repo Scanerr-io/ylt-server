@@ -1,7 +1,5 @@
 # ylt-server
-### A forked repo of the original YLT that extends it's usage for Cursion.
-
---
+> A forked repo of the original YLT that extends it's usage for Cursion.
 
 ## Build & Push Instructions
 1. Ensure you are in the root of `ytl-server`
